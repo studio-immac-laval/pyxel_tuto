@@ -8,7 +8,7 @@
 
 [Tutoriel NDC - Programmation orientée objet](https://nuitducode.forge.apps.education.fr/docs/PYTHON/TUTORIELS/2-premiers-pas-avec-pyxel-terminale/)
 
-[Tutoriel NDC - Programmation orientée objet + détails](https://nuitducode.forge.apps.education.fr/docs/PYTHON/TUTORIELS/3-tutoriel-detaille-terminale/)
+[Tutoriel NDC - Tutoriel détaillé](https://nuitducode.forge.apps.education.fr/docs/PYTHON/TUTORIELS/3-tutoriel-detaille-terminale/)
 
 ## Sommaire
 
